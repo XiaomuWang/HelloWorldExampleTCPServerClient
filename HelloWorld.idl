@@ -1,0 +1,5 @@
+struct HelloWorld
+{
+	double index;
+	sequence<char,800000> message;
+};
